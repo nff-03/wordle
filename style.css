@@ -1,0 +1,62 @@
+.textField {
+    width: 80%;
+    margin-right: 10px;
+}
+
+.submit_button {
+    cursor: pointer;
+    background-color: #6e419c;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.output-container {
+    margin-top: 20px;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.neutral {
+    color: grey;
+}
+
+span {
+    transition: color 0.5s, background-color 0.5s;
+}
+
+span.correct {
+    color: green;
+    background-color: #e0f2e9; 
+}
+
+span.incorrect-position {
+    color: red;
+    background-color: #fdecea; 
+}
+
+span.incorrect {
+    color: grey;
+    background-color: #f0f0f0; 
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect-position {
+    color: red;
+}
+
+.incorrect {
+    color: grey;
+}
